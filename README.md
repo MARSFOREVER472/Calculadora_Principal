@@ -28,6 +28,6 @@
   
 - **_Validación de entrada de datos con isNaN (Is Not a Number)._**
 
-- **_Uso de eventos en botones (onclick)._**
+- **_Uso de eventos en algunos botones (onclick)._**
   
 **_Éste es un punto de partida. A medida que puedas aprender más, puedes agregar ciertas características tales como operaciones adicionales (resta, multiplicación, división), validaciones avanzadas, o incluso un diseño más atractivo._**
