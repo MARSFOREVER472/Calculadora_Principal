@@ -16,7 +16,7 @@
 
 - **_Crea un archivo llamado index.html y pega el contenido del código HTML._**
   
-- **_Crea un archivo llamado app.js en la misma carpeta y pega el contenido del código JavaScript._**
+- **_Crea un archivo llamado app.js en la misma carpeta y pega todo el contenido del código JavaScript._**
   
 - **_Abre el archivo index.html en tu navegador._**
   
