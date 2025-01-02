@@ -26,6 +26,6 @@
 
 - **_Manipulación del DOM con JavaScript (document.getElementById)._**
   
-- _Validación de entrada de datos con isNaN (Is Not a Number)._
+- **_Validación de entrada de datos con isNaN (Is Not a Number)._**
 Uso de eventos en botones (onclick).
 Este es un punto de partida. A medida que aprendas más, puedes agregar características como operaciones adicionales (resta, multiplicación, etc.), validaciones avanzadas, o incluso un diseño más atractivo.
