@@ -20,7 +20,7 @@
   
 - **_Abre el archivo index.html en tu navegador._**
   
-- **_Ingresa 2 números en los campos y haz clic en el botón Add para ver el resultado._**
+- **_Ingresa 2 números en los 2 campos y haz clic en el botón Add para ver el resultado._**
 
 ## _¿Qué aprenderás?_
 
