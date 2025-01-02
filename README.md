@@ -12,7 +12,7 @@
   
 - **_JavaScript: Lógica de la aplicación._**
 
-## _¿Cómo usarlo?_
+## **_¿Cómo usarlo?_**
 
 Crea un archivo llamado index.html y pega el contenido del código HTML.
 Crea un archivo llamado app.js en la misma carpeta y pega el contenido del código JavaScript.
