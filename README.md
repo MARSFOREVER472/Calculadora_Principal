@@ -8,4 +8,4 @@
 
 - HTML: Interfaz de usuario.
 - CSS: Estilo básico (opcional).
-JavaScript: Lógica de la aplicación.
+- JavaScript: Lógica de la aplicación.
