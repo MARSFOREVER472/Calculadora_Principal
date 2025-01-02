@@ -2,7 +2,7 @@
 
 ## **_Ejemplo sencillo sobre cómo crear una aplicación básica en JavaScript._**
 
-### **_Este ejemplo es una calculadora sencilla y simple que permite sumar 2 números._**
+### **_Este ejemplo es una calculadora sencilla y simple que permite sumar 2 números cualquiera._**
 
 **_Archivos necesarios:_**
 
