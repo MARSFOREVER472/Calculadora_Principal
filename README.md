@@ -12,7 +12,7 @@
   
 - **_JavaScript: Lógica de la aplicación._**
 
-## **_¿Cómo usarlo?_**
+## **_¿Cómo utilizarlo?_**
 
 - **_Crea un archivo llamado index.html y pega el contenido del código HTML._**
   
