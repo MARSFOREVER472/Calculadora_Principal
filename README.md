@@ -24,7 +24,7 @@
 
 ## _¿Qué aprenderás?_
 
-- **_Manipulación del DOM con JavaScript (document.getElementById)._**
+- **_Manipulación del DOM con JavaScript (```document.getElementById```)._**
   
 - **_Validación de entrada de datos con ```isNaN``` (Is Not a Number)._**
 
