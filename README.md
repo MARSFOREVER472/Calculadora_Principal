@@ -24,7 +24,7 @@
 
 ## _¿Qué aprenderás?_
 
-- _Manipulación del DOM con JavaScript (document.getElementById)._
+- **_Manipulación del DOM con JavaScript (document.getElementById)._**
 Validación de entrada de datos con isNaN.
 Uso de eventos en botones (onclick).
 Este es un punto de partida. A medida que aprendas más, puedes agregar características como operaciones adicionales (resta, multiplicación, etc.), validaciones avanzadas, o incluso un diseño más atractivo.
