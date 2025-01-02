@@ -8,6 +8,6 @@
 
 - **_HTML: Interfaz de usuario._**
   
-- CSS: Estilo básico (opcional).
+- _CSS: Estilo básico (opcional)._
   
 - JavaScript: Lógica de la aplicación.
