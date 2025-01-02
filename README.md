@@ -7,5 +7,6 @@
 **_Archivos necesarios:_**
 
 - HTML: Interfaz de usuario.
+  
 - CSS: Estilo básico (opcional).
 - JavaScript: Lógica de la aplicación.
