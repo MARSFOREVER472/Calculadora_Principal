@@ -16,7 +16,7 @@
 
 - Crea un archivo llamado index.html y pega el contenido del código HTML.
 - Crea un archivo llamado app.js en la misma carpeta y pega el contenido del código JavaScript.
-Abre el archivo index.html en tu navegador.
+- Abre el archivo index.html en tu navegador.
 Ingresa dos números en los campos y haz clic en el botón Add para ver el resultado.
 ¿Qué aprenderás?
 Manipulación del DOM con JavaScript (document.getElementById).
