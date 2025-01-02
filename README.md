@@ -6,7 +6,7 @@
 
 **_Archivos necesarios:_**
 
-- HTML: Interfaz de usuario.
+- _HTML: Interfaz de usuario._
   
 - CSS: Estilo básico (opcional).
   
