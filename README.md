@@ -18,7 +18,7 @@
   
 - **_Crea un archivo llamado "```app.js```" en la misma carpeta y pega todo el contenido del código JavaScript._**
   
-- **_Abre el archivo "index.html" en tu navegador._**
+- **_Abre el archivo "```index.html```" en tu navegador._**
   
 - **_Ingresa 2 números en los 2 campos vacíos y haz clic en el botón "Sumar" para ver el resultado._**
 
