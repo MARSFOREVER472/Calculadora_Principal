@@ -30,4 +30,4 @@
 
 - **_Uso de eventos en botones (onclick)._**
   
-_Éste es un punto de partida. A medida que puedas aprender más, puedes agregar ciertas características tales como operaciones adicionales (resta, multiplicación, etc.), validaciones avanzadas, o incluso un diseño más atractivo._
+_Éste es un punto de partida. A medida que puedas aprender más, puedes agregar ciertas características tales como operaciones adicionales (resta, multiplicación, división), validaciones avanzadas, o incluso un diseño más atractivo._
