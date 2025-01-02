@@ -19,7 +19,7 @@
 - **_Abre el archivo index.html en tu navegador._**
 - **_Ingresa dos números en los campos y haz clic en el botón Add para ver el resultado._**
 
-¿Qué aprenderás?
+## ¿Qué aprenderás?
 Manipulación del DOM con JavaScript (document.getElementById).
 Validación de entrada de datos con isNaN.
 Uso de eventos en botones (onclick).
