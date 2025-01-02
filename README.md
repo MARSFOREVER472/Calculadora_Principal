@@ -10,4 +10,4 @@
   
 - **_CSS: Estilo básico (opcional)._**
   
-- JavaScript: Lógica de la aplicación.
+- _JavaScript: Lógica de la aplicación._
