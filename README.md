@@ -26,7 +26,7 @@
 
 - **_Manipulación del DOM con JavaScript (document.getElementById)._**
   
-- **_Validación de entrada de datos con isNaN (Is Not a Number)._**
+- **_Validación de entrada de datos con ```isNaN``` (Is Not a Number)._**
 
 - **_Uso de eventos en algunos botones (onclick)._**
   
