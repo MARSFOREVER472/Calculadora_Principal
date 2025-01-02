@@ -5,6 +5,7 @@
 ### **_Este ejemplo es una calculadora simple que permite sumar dos números._**
 
 **_Archivos necesarios:_**
+
 HTML: Interfaz de usuario.
 CSS: Estilo básico (opcional).
 JavaScript: Lógica de la aplicación.
