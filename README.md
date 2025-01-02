@@ -22,7 +22,7 @@
   
 - **_Ingresa dos números en los campos y haz clic en el botón Add para ver el resultado._**
 
-## ¿Qué aprenderás?
+## _¿Qué aprenderás?_
 Manipulación del DOM con JavaScript (document.getElementById).
 Validación de entrada de datos con isNaN.
 Uso de eventos en botones (onclick).
