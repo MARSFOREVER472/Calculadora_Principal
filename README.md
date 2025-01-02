@@ -11,6 +11,7 @@
 - **_CSS: Estilo básico (opcional)._**
   
 - **_JavaScript: Lógica de la aplicación._**
+
 ¿Cómo usarlo?
 Crea un archivo llamado index.html y pega el contenido del código HTML.
 Crea un archivo llamado app.js en la misma carpeta y pega el contenido del código JavaScript.
